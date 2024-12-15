@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/msfs-app/static/js/main.c1a19f1d.js",
+    "main.js": "/msfs-app/static/js/main.f63ca5f6.js",
     "index.html": "/msfs-app/index.html",
-    "main.c1a19f1d.js.map": "/msfs-app/static/js/main.c1a19f1d.js.map"
+    "main.f63ca5f6.js.map": "/msfs-app/static/js/main.f63ca5f6.js.map"
   },
   "entrypoints": [
-    "static/js/main.c1a19f1d.js"
+    "static/js/main.f63ca5f6.js"
   ]
 }

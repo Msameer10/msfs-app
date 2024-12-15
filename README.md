@@ -1,4 +1,5 @@
-# **MSFS App**
+# **MSFS App** ![License](https://img.shields.io/badge/license-MIT-green)
+
 
 This is a React-based web app named **"msfs-app"**, built as part of my learning journey with **ReactJS**. The application tracks and displays detailed flight information for the flights I’ve flown in **Microsoft Flight Simulator**.
 
@@ -92,6 +93,7 @@ Please make sure your code follows the existing style and includes relevant test
 
 ## **License**
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+## License
+This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
 
 ---

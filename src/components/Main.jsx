@@ -11,7 +11,7 @@ export default function Main() {
         )
     })
     return (
-        <div id="Main" class="container">
+        <div id="Main" className="container">
             <p>Main component</p>
             {entries}
         </div>

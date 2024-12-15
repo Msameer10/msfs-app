@@ -7,7 +7,7 @@ export default [
         flight: "EM-721",
         distance: "1500 nm",
         duration: "3 hours 59 mins",
-        cruse_alt: "FL350"
+        cruise_alt: "FL350"
     },
     {
         id: "3",
@@ -17,7 +17,7 @@ export default [
         flight: "SA-721",
         distance: "1200 nm",
         duration: "2 hours 49 mins",
-        cruse_alt: "FL340"
+        cruise_alt: "FL340"
     },
     {
         id: "2",
@@ -27,7 +27,7 @@ export default [
         flight: "DA-721",
         distance: "400 nm",
         duration: "2 hours 20 mins",
-        cruse_alt: "FL340"
+        cruise_alt: "FL340"
     },
     {
         id: "1",
@@ -37,6 +37,6 @@ export default [
         flight: "LX-721",
         distance: "900 nm",
         duration: "4 hours 10 mins",
-        cruse_alt: "FL380"
+        cruise_alt: "FL380"
     },
 ]

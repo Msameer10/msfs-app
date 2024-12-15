@@ -1,0 +1,35 @@
+.navbar-brand{
+    color: #2e86c1;
+    font-size: 2rem;
+}
+
+body{
+    color: aliceblue;
+    background-color: black;
+}
+
+#Main{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.Entry{
+    color: aliceblue;
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    font-size: 0.8rem;
+}
+
+.Entry > p {
+    margin: 0;
+}
+
+.Entry > h5 {
+    font-size: 1.4em;
+}
+
+footer{
+    font-size: 1.1em;
+    margin-bottom: 10px;
+}

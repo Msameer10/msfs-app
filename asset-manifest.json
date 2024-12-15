@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/static/js/main.dbe80f3a.js",
-    "index.html": "/index.html",
-    "main.dbe80f3a.js.map": "/static/js/main.dbe80f3a.js.map"
+    "main.js": "/msfs-app/static/js/main.dbe80f3a.js",
+    "index.html": "/msfs-app/index.html",
+    "main.dbe80f3a.js.map": "/msfs-app/static/js/main.dbe80f3a.js.map"
   },
   "entrypoints": [
     "static/js/main.dbe80f3a.js"
